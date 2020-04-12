@@ -1,0 +1,6 @@
+*.pyc
+*.bin
+*.png
+**/artifacts/**
+**/dataset/**
+.idea

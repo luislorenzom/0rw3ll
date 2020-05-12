@@ -2,5 +2,8 @@ matplotlib
 numpy
 pandas
 scikit-learn
+scipy
+imutils
 tensorflow-gpu==2.1.0
 opencv-contrib-python
+dlib # requires ~>  sudo apt install cmake

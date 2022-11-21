@@ -2,5 +2,5 @@ matplotlib
 numpy
 pandas
 scikit-learn
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.9.3
 opencv-contrib-python
